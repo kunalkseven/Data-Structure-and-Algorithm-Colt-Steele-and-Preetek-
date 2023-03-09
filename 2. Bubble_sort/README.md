@@ -1,5 +1,7 @@
 # BUBBLE SORT
 
+> Time Complexity : On^2
+
 ![BUBBLE SORT](../assets/bubble_sort.png)
 
 > BubbleSort Pseudocode
