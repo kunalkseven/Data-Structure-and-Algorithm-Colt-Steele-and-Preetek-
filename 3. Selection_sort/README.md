@@ -1,6 +1,6 @@
 # Selection Sort
 
-> Time Complexity: 
+> Time Complexity: O(n)^2
 
 ![Selection SORT](../assets/selection_sort.png)
 
