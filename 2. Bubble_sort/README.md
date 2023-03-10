@@ -1,6 +1,6 @@
 # BUBBLE SORT
 
-> Time Complexity : On^2
+> Time Complexity : O(n^2)
 
 ![BUBBLE SORT](../assets/bubble_sort.png)
 
