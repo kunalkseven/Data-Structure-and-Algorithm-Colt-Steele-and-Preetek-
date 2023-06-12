@@ -1,10 +1,10 @@
 // Ways to swap the elements in array
 
 // ES5
-function swap(arr,left,rigth) {
+function swap(arr,left, rigth) {
     var temp = arr[left];
-    arr[left] = arr[right];
-    arr[right] = temp
+    arr[left] = arr[rigth];
+    arr[rigth] = temp
 }
 // ES6
 function swap(arr,left,right) {
